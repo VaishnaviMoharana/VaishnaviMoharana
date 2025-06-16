@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning & Data Science | Python for AI & Data Analysis | Sustainable Tech & Environmental Data**
 
-- 📫 How to reach me **vaishnavi429.mol@gmail.com, https://github.com/vaishnavimoharana**
+- 📫 How to reach me **vaishnavi429.mol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
